@@ -11,23 +11,23 @@ subtraction, multiplication and division.
 3. Instrukcja użytkownika 
 Uruchom program i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie:
 
-  -Wprowadź pierwszą liczbę:
+  1. Wprowadź pierwszą liczbę:
     
 ![ss1](https://github.com/bartpomietlo/kalkulator-OOP/assets/163325596/255190e1-827c-4dce-b8bd-856137849841)
 
 
-   -Wybierz operację (dodawanie, odejmowanie, mnożenie lub dzielenie):
+   2. Wybierz operację (dodawanie, odejmowanie, mnożenie lub dzielenie):
    
    
   ![ss2](https://github.com/bartpomietlo/kalkulator-OOP/assets/163325596/0c746be2-bce6-4b1e-a635-bd9e9bfa2f14)
 
   Program wyświetli wynik operacji. 
 
-  -Na koniec program zapyta, czy chcesz wykonać inną operację:
+  3. Na koniec program zapyta, czy chcesz wykonać inną operację:
    
   ![ss3](https://github.com/bartpomietlo/kalkulator-OOP/assets/163325596/1bea2868-48bc-467e-afca-3b6219fb3c10)
 
-  Odpowiadamy Tak [T] lub Nie [N], co rozpoczyna od nowa porcedurę.
+  4. Odpowiadamy Tak [T] lub Nie [N], co rozpoczyna od nowa porcedurę.
 
 
 
@@ -49,7 +49,7 @@ Uruchom program i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie:
 		Użytkownicy
 
 
-		6.Opis klas 
+   6.Opis klas 
 			Projekt zawiera jedną klasę „Kalkulator”. Klasa ta reprezentuje kalkulator, który może 
 			wykonywać podstawowe operacje matematyczne. Klasa zawiera metody do ustawiania 
 			wartości, na których mają być wykonywane operacje (setL1, setL2), do ustawiania operacji 
@@ -57,7 +57,7 @@ Uruchom program i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie:
 			(getWyn).
 
 
-		7. Dalszy rozwój i ulepszenia 
+   7. Dalszy rozwój i ulepszenia 
 				Możliwe kierunki rozwoju to dodanie obsługi bardziej zaawansowanych operacji 
 				matematycznych, takich jak pierwiastkowanie, potęgowanie, operacje na liczbach 
 				zespolonych itp.
