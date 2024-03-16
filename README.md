@@ -53,7 +53,7 @@ subtraction, multiplication and division.
 
 
 
-   6.Opis klas 
+   6. Opis klas 
 		Projekt zawiera jedną klasę „Kalkulator”. Klasa ta reprezentuje kalkulator, który może 
 		wykonywać podstawowe operacje matematyczne. Klasa zawiera metody do ustawiania 
 		wartości, na których mają być wykonywane operacje (setL1, setL2), do ustawiania operacji 
