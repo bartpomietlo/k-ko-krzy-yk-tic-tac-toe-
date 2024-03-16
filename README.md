@@ -16,8 +16,6 @@ Uruchom program i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie:
 ![ss1](https://github.com/bartpomietlo/kalkulator-OOP/assets/163325596/255190e1-827c-4dce-b8bd-856137849841)
 
 
-
-
    Wybierz operację (dodawanie, odejmowanie, mnożenie lub dzielenie):
    
    
@@ -25,4 +23,4 @@ Uruchom program i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie:
 
   Program wyświetli wynik operacji. 
 
-4. Na koniec program zapyta, czy chcesz wykonać inną operację:
+4.Na koniec program zapyta, czy chcesz wykonać inną operację:
