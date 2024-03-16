@@ -21,7 +21,7 @@ Uruchom program i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie:
    
   ![ss2](https://github.com/bartpomietlo/kalkulator-OOP/assets/163325596/0c746be2-bce6-4b1e-a635-bd9e9bfa2f14)
 
-  Program wyświetli wynik operacji. 
+     Program wyświetli wynik operacji. 
 
   -Na koniec program zapyta, czy chcesz wykonać inną operację:
    
