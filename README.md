@@ -9,29 +9,33 @@ The project is a simple calculator that performs basic mathematical operations: 
 subtraction, multiplication and division.
 
 3. Instrukcja użytkownika 
-Uruchom program i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie:
+   Uruchom program i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie:
 
-  1. Wprowadź pierwszą liczbę:
+   - Wprowadź pierwszą liczbę:
     
 ![ss1](https://github.com/bartpomietlo/kalkulator-OOP/assets/163325596/255190e1-827c-4dce-b8bd-856137849841)
 
 
-   2. Wybierz operację (dodawanie, odejmowanie, mnożenie lub dzielenie):
+   - Wybierz operację (dodawanie, odejmowanie, mnożenie lub dzielenie):
    
    
-  ![ss2](https://github.com/bartpomietlo/kalkulator-OOP/assets/163325596/0c746be2-bce6-4b1e-a635-bd9e9bfa2f14)
+![ss4](https://github.com/bartpomietlo/kalkulator-OOP/assets/163325596/d8d6e3f7-117f-43d4-9081-d7c991e16fa8)
 
-  Program wyświetli wynik operacji. 
+   - następnie wprowadź drugą liczbę:
 
-  3. Na koniec program zapyta, czy chcesz wykonać inną operację:
-   
   ![ss3](https://github.com/bartpomietlo/kalkulator-OOP/assets/163325596/1bea2868-48bc-467e-afca-3b6219fb3c10)
 
-  4. Odpowiadamy Tak [T] lub Nie [N], co rozpoczyna od nowa porcedurę.
+     
+  Program wyświetli wynik operacji. 
+
+   - Na koniec program zapyta, czy chcesz wykonać inną operację:
+   
+Użytkownicy![ss3](https://github.com/bartpomietlo/kalkulator-OOP/assets/163325596/e2456689-5590-423e-a81c-d3b2927180c8)
+
+   - Odpowiadamy Tak [T] lub Nie [N], co rozpoczyna od nowa porcedurę.
 
 
 
-  
   4. Kompilacja
      
       Projekt można skompilować za pomocą dowolnego kompilatora obsługującego C++. Nie są 
@@ -46,18 +50,18 @@ Uruchom program i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie:
 		podstawie wprowadzonych przez użytkownika danych. - „plik.h”: Jest to plik nagłówkowy, który zawiera definicję klasy „Kalkulator”. Klasa 
 		„Kalkulator” jest kluczowym elementem tego projektu, ponieważ zawiera logikę potrzebną 
 		do wykonywania operacji matematycznych. - „a.exe”: Jest to plik wykonywalny wygenerowany po skompilowaniu kodu źródłowego. 
-		Użytkownicy
+
 
 
    6.Opis klas 
-			Projekt zawiera jedną klasę „Kalkulator”. Klasa ta reprezentuje kalkulator, który może 
-			wykonywać podstawowe operacje matematyczne. Klasa zawiera metody do ustawiania 
-			wartości, na których mają być wykonywane operacje (setL1, setL2), do ustawiania operacji 
-			do wykonania (setZnak), do obliczania wyniku (calculate) oraz do pobierania wyniku 
-			(getWyn).
+		Projekt zawiera jedną klasę „Kalkulator”. Klasa ta reprezentuje kalkulator, który może 
+		wykonywać podstawowe operacje matematyczne. Klasa zawiera metody do ustawiania 
+		wartości, na których mają być wykonywane operacje (setL1, setL2), do ustawiania operacji 
+		do wykonania (setZnak), do obliczania wyniku (calculate) oraz do pobierania wyniku 
+		(getWyn).
 
 
    7. Dalszy rozwój i ulepszenia 
-				Możliwe kierunki rozwoju to dodanie obsługi bardziej zaawansowanych operacji 
-				matematycznych, takich jak pierwiastkowanie, potęgowanie, operacje na liczbach 
-				zespolonych itp.
+			Możliwe kierunki rozwoju to dodanie obsługi bardziej zaawansowanych operacji 
+			matematycznych, takich jak pierwiastkowanie, potęgowanie, operacje na liczbach 
+			zespolonych itp.
