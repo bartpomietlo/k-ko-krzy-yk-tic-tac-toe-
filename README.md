@@ -35,7 +35,7 @@ Uruchom program i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie:
   4. Kompilacja
      
       Projekt można skompilować za pomocą dowolnego kompilatora obsługującego C++. Nie są 
-      wymagane żadne dodatkowe flagi kompilacji.
+      wymagane żadne dodatkowe flagi kompilacji. 
 
 
 
