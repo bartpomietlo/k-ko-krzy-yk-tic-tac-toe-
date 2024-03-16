@@ -21,11 +21,17 @@ Uruchom program i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie:
    
   ![ss2](https://github.com/bartpomietlo/kalkulator-OOP/assets/163325596/0c746be2-bce6-4b1e-a635-bd9e9bfa2f14)
 
-     Program wyświetli wynik operacji. 
+  Program wyświetli wynik operacji. 
 
   -Na koniec program zapyta, czy chcesz wykonać inną operację:
    
   ![ss3](https://github.com/bartpomietlo/kalkulator-OOP/assets/163325596/1bea2868-48bc-467e-afca-3b6219fb3c10)
 
   Odpowiadamy Tak [T] lub Nie [N], co rozpoczyna od nowa porcedurę.
+
+
+  4. Kompilacja
+     
+      Projekt można skompilować za pomocą dowolnego kompilatora obsługującego C++. Nie są 
+      wymagane żadne dodatkowe flagi kompilacji.
   
