@@ -30,8 +30,34 @@ Uruchom program i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie:
   Odpowiadamy Tak [T] lub Nie [N], co rozpoczyna od nowa porcedurę.
 
 
+
+  
   4. Kompilacja
      
       Projekt można skompilować za pomocą dowolnego kompilatora obsługującego C++. Nie są 
       wymagane żadne dodatkowe flagi kompilacji.
-  
+
+
+
+  5. Pliki źródłowe
+     
+		Projekt składa się z następujących plików źródłowych: - „main.cpp”: Jest to główny plik projektu, który zawiera pętlę „main()”. Ten plik jest 
+		odpowiedzialny za interakcję z użytkownikiem i wywoływanie odpowiednich funkcji na 
+		podstawie wprowadzonych przez użytkownika danych. - „plik.h”: Jest to plik nagłówkowy, który zawiera definicję klasy „Kalkulator”. Klasa 
+		„Kalkulator” jest kluczowym elementem tego projektu, ponieważ zawiera logikę potrzebną 
+		do wykonywania operacji matematycznych. - „a.exe”: Jest to plik wykonywalny wygenerowany po skompilowaniu kodu źródłowego. 
+		Użytkownicy
+
+
+		6.Opis klas 
+			Projekt zawiera jedną klasę „Kalkulator”. Klasa ta reprezentuje kalkulator, który może 
+			wykonywać podstawowe operacje matematyczne. Klasa zawiera metody do ustawiania 
+			wartości, na których mają być wykonywane operacje (setL1, setL2), do ustawiania operacji 
+			do wykonania (setZnak), do obliczania wyniku (calculate) oraz do pobierania wyniku 
+			(getWyn).
+
+
+		7. Dalszy rozwój i ulepszenia 
+				Możliwe kierunki rozwoju to dodanie obsługi bardziej zaawansowanych operacji 
+				matematycznych, takich jak pierwiastkowanie, potęgowanie, operacje na liczbach 
+				zespolonych itp.
