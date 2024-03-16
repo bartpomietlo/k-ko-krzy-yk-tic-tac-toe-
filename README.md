@@ -30,7 +30,7 @@ subtraction, multiplication and division.
 
    - Na koniec program zapyta, czy chcesz wykonać inną operację:
    
-Użytkownicy![ss3](https://github.com/bartpomietlo/kalkulator-OOP/assets/163325596/e2456689-5590-423e-a81c-d3b2927180c8)
+![ss3](https://github.com/bartpomietlo/kalkulator-OOP/assets/163325596/e2456689-5590-423e-a81c-d3b2927180c8)
 
    - Odpowiadamy Tak [T] lub Nie [N], co rozpoczyna od nowa porcedurę.
 
